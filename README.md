@@ -1,4 +1,4 @@
-# Temporal DSA Latent Diffusion (MICCAI Anonymous Submission)
+# Temporal DSA Latent Diffusion
 
 This repository contains code for generating temporal DSA sequences using a latent diffusion model.
 
